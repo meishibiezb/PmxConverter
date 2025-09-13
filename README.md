@@ -1,0 +1,2 @@
+# PmxConverter
+一个将Pmx格式文件转换为GLB2格式文件的工具
