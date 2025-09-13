@@ -1,0 +1,5 @@
+# ninja log v6
+23	2438	7720541558557611	CMakeFiles/PmxConverter.dir/PmxConverter.cpp.obj	bd7e37641aed3afe
+2439	3048	7720541582716296	PmxConverter.exe	a62b82e0b13fb916
+164	1238	7716062563765677	CMakeFiles/ModelReader.dir/ModelReader.cpp.obj	43192771304d6340
+1238	1776	7716062574507058	ModelReader.exe	6c0eb804a29b9db7
